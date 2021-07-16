@@ -142,14 +142,14 @@ footer {
 }
 
 table {
-	margin: 10px 0 0;
+	margin: 20px 0 40px;
 }
 
-th  {
-	background: #777777;
-	color: #FFFFFF;
+thead{
+	background: #555555;
+	color: white;
+	font-weight: bold;
 }
-
 
 td, th {
 	border: 1px solid #000000;
@@ -201,3 +201,4 @@ form label, form legend {
 	/*transform: rotate(70deg);
 	 transform: scale(1.2) rotate(70deg)*/
 }
+
